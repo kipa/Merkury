@@ -2,10 +2,12 @@
 <img src="https://pavz.ru/demo/images/mockup.jpg" />
 
 <p align="center">
-    <img width="300" src="https://pavz.ru/demo/images/bootstrap.jpg" />
-    <img width="300" src="https://pavz.ru/demo/images/responsive.jpg" />
-    <img width="300" src="https://pavz.ru/demo/images/customize.jpg" />
+    <img width="250" src="https://pavz.ru/demo/images/bootstrap.jpg" />
+    <img width="250" src="https://pavz.ru/demo/images/responsive.jpg" />
+    <img width="250" src="https://pavz.ru/demo/images/customize.jpg" />
 </p>
+
+<br>
 
 <hr>
 <p align="center">
