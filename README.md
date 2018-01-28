@@ -1,7 +1,11 @@
 # Merkury / HTML &amp; CSS Template
 <img src="https://pavz.ru/demo/images/mockup.jpg" />
 
-<p align="center"><img width="400" src="https://pavz.ru/demo/images/bootstrap.jpg" /></p>
+<p align="center">
+    <img width="300" src="https://pavz.ru/demo/images/bootstrap.jpg" />
+    <img width="300" src="https://pavz.ru/demo/images/responsive.jpg" />
+    <img width="300" src="https://pavz.ru/demo/images/customize.jpg" />
+</p>
 
 <hr>
 <p align="center">
