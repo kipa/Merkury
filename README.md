@@ -1,12 +1,6 @@
 # Merkury / HTML &amp; CSS Template
 <img src="https://pavz.ru/demo/images/browser-mockup.jpg" />
 
-<ul>
-    <li>Bootstrap 4</li>
-    <li>Respomsive</li>
-    <li>Easy to customize</li>
-</ul>
-
 <br>
 
 <hr>
