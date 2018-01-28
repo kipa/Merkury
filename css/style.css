@@ -831,12 +831,16 @@ nav ul a:hover {
 
     ul.plan-list {
         padding: 0;
-        margin: 20 auto;
+        margin: 0 auto;
         width: 250px;
     }
 
     .footer-content {
         height: 150px;
+        text-align: center;
     }
     
+    footer {
+        margin-top: 50px;
+    }
 }
