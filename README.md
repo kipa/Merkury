@@ -1,11 +1,11 @@
 # Merkury / HTML &amp; CSS Template
 <img src="https://pavz.ru/demo/images/browser-mockup.jpg" />
 
-<p align="center">
-    <img width="250" src="https://pavz.ru/demo/images/bootstrap.jpg" />
-    <img width="250" src="https://pavz.ru/demo/images/responsive.jpg" />
-    <img width="250" src="https://pavz.ru/demo/images/customize.jpg" />
-</p>
+<ul>
+    <li>Bootstrap 4</li>
+    <li>Respomsive</li>
+    <li>Easy to customize</li>
+</ul>
 
 <br>
 
