@@ -1,8 +1,7 @@
 # Merkury / HTML &amp; CSS Template
 <img src="https://pavz.ru/demo/images/mockup.jpg" />
 
-<hr>
-<h3>Template based on bootstrap grid</h3>
+Template based on bootstrap grid
 <hr>
 
 <p align="center"><img width="400" src="https://pavz.ru/demo/images/bootstrap.jpg" /></p>
