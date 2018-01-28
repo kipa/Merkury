@@ -1,8 +1,6 @@
 # Merkury / HTML &amp; CSS Template
 <img src="https://pavz.ru/demo/images/browser-mockup.jpg" />
 
-<br>
-
 <hr>
 <p align="center">
 This template designed by <a href="https://symu.co/freebies/templates-4/merkury-psd-template/">symu.co</a> <br>
