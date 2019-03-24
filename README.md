@@ -1,5 +1,5 @@
 # Merkury / HTML &amp; CSS Template
-<img src="https://pavz.ru/demo/images/browser-mockup.jpg" />
+<img src="https://pavlovkirill.com/img/browser-mockup.jpg" />
 
 <hr>
 <p align="center">
